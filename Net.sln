@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeerData", "LeerData", "{3E71054F-2DD0-4E5A-B6DF-9F8D749B4990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeerData", "LeerData\LeerData.csproj", "{79E4051D-D22D-42AB-AA10-2034022EEF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E4051D-D22D-42AB-AA10-2034022EEF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E4051D-D22D-42AB-AA10-2034022EEF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E4051D-D22D-42AB-AA10-2034022EEF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E4051D-D22D-42AB-AA10-2034022EEF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{79E4051D-D22D-42AB-AA10-2034022EEF02} = {3E71054F-2DD0-4E5A-B6DF-9F8D749B4990}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3AA0187-C6E7-4774-BA25-490866C2A4BA}
+	EndGlobalSection
+EndGlobal
